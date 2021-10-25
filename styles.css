@@ -1,0 +1,41 @@
+#content {
+    margin: 0 auto;
+    width: 70%;
+}
+.content-wrapper {
+
+}
+h1, h4, h5 {
+    font-family: 'Montserrat', sans-serif;
+}
+h4, h5 {
+    font-style: italic;
+}
+body {
+    font-family: 'Lora', serif;
+}
+.topperimg {
+    width: 100%;
+}
+.imagewrapper p.caption {
+    margin-top: 0px;
+    color: grey;
+    font-family: 'Lora', serif;
+}
+.imagewrapper img{
+    width: 100%;
+}
+.imagewrapper .topperimg img{
+    margin: 0;
+}
+.imagewrapper {
+    margin: 35px;
+}
+blockquote {
+    font-weight: bold;
+    border-left: 3px solid lightblue;
+    padding-left: 8px;
+    margin-left: 50px;
+}
+/*font-family: 'Lora', serif;
+font-family: 'Montserrat', sans-serif;*/
